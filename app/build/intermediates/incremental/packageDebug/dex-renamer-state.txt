@@ -1,0 +1,7 @@
+#Thu Jun 15 08:48:41 IST 2017
+base.0=/home/sanjeev/Downloads/ud843-QuakeReport-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2eabaf2194dc57a24397b8dfb08140db9b64aa0e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/sanjeev/Downloads/ud843-QuakeReport-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_82904ecd2153730be1baf24fa5c0cf62ff6dd4ed/classes.dex
+base.1=/home/sanjeev/Downloads/ud843-QuakeReport-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_82904ecd2153730be1baf24fa5c0cf62ff6dd4ed
+file.0=/home/sanjeev/Downloads/ud843-QuakeReport-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2eabaf2194dc57a24397b8dfb08140db9b64aa0e/classes.dex

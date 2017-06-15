@@ -1,0 +1,19 @@
+#Wed Jun 14 12:24:38 IST 2017
+renamed.5=classes6.dex
+renamed.4=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes5.dex
+renamed.0=classes2.dex
+base.5=/home/sanjeev/Downloads/ud843-QuakeReport-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_12a5b79bdbb5048f00456c580aabdc29864d5d69
+base.4=/home/sanjeev/Downloads/ud843-QuakeReport-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_879d7741e1b665ba4a624f720b89d0613c9dae05
+base.3=/home/sanjeev/Downloads/ud843-QuakeReport-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1119b44d393ce66914efb7ba30a20b55f0ce2013
+base.2=/home/sanjeev/Downloads/ud843-QuakeReport-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_6412f95c26b74e466fe70623072335ebac004894
+base.1=/home/sanjeev/Downloads/ud843-QuakeReport-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3cab7254d43e9deb7d849edd76cd7fbf63190b88
+base.0=/home/sanjeev/Downloads/ud843-QuakeReport-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a31cd55afc812d3116a49e2e802ae46d3782002
+file.5=/home/sanjeev/Downloads/ud843-QuakeReport-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_12a5b79bdbb5048f00456c580aabdc29864d5d69/classes.dex
+file.4=/home/sanjeev/Downloads/ud843-QuakeReport-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_879d7741e1b665ba4a624f720b89d0613c9dae05/classes.dex
+file.3=/home/sanjeev/Downloads/ud843-QuakeReport-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1119b44d393ce66914efb7ba30a20b55f0ce2013/classes.dex
+file.2=/home/sanjeev/Downloads/ud843-QuakeReport-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_6412f95c26b74e466fe70623072335ebac004894/classes.dex
+file.1=/home/sanjeev/Downloads/ud843-QuakeReport-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3cab7254d43e9deb7d849edd76cd7fbf63190b88/classes.dex
+file.0=/home/sanjeev/Downloads/ud843-QuakeReport-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a31cd55afc812d3116a49e2e802ae46d3782002/classes.dex
