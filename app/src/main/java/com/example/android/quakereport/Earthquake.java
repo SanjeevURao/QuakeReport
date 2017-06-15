@@ -5,18 +5,20 @@ package com.example.android.quakereport;
  */
 
 public class Earthquake {
-    private String magnitude;
+    private Double magnitude;
     private String place;
-    private String time;
+    private Long time;
+    public String url;
 
-    public Earthquake(String mag , String pl , String t)
+    public Earthquake(Double mag , String pl , Long t , String url)
     {
         magnitude=mag;
         place=pl;
         time=t;
+        this.url=url;
     }
 
-    public String getMag()
+    public Double getMag()
     {
         return magnitude;
     }
@@ -25,8 +27,14 @@ public class Earthquake {
     {
         return place;
     }
-    public String getTime()
+    public Long getTime()
     {
         return time;
+    }
+
+
+    public String getUrl()
+    {
+        return url;
     }
 }

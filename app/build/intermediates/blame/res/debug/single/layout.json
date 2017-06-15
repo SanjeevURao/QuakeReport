@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/home/sanjeev/Downloads/ud843-QuakeReport-starting-point/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/home/sanjeev/.android/build-cache/85ecc9ff7926ca1c1c2029c43d0eefe8b84b4f08/output/res/layout/abc_activity_chooser_view.xml"
-    },
-    {
         "merged": "/home/sanjeev/Downloads/ud843-QuakeReport-starting-point/app/build/intermediates/res/merged/debug/layout/list_item.xml",
         "source": "/home/sanjeev/Downloads/ud843-QuakeReport-starting-point/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/home/sanjeev/Downloads/ud843-QuakeReport-starting-point/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/sanjeev/.android/build-cache/85ecc9ff7926ca1c1c2029c43d0eefe8b84b4f08/output/res/layout/abc_activity_chooser_view.xml"
     },
     {
         "merged": "/home/sanjeev/Downloads/ud843-QuakeReport-starting-point/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",

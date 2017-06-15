@@ -36,12 +36,12 @@
         "source": "/home/sanjeev/.android/build-cache/85ecc9ff7926ca1c1c2029c43d0eefe8b84b4f08/output/res/drawable/abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/home/sanjeev/Downloads/ud843-QuakeReport-starting-point/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
-        "source": "/home/sanjeev/.android/build-cache/85ecc9ff7926ca1c1c2029c43d0eefe8b84b4f08/output/res/drawable/abc_dialog_material_background_dark.xml"
-    },
-    {
         "merged": "/home/sanjeev/Downloads/ud843-QuakeReport-starting-point/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
         "source": "/home/sanjeev/.android/build-cache/85ecc9ff7926ca1c1c2029c43d0eefe8b84b4f08/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/sanjeev/Downloads/ud843-QuakeReport-starting-point/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/sanjeev/.android/build-cache/85ecc9ff7926ca1c1c2029c43d0eefe8b84b4f08/output/res/drawable/abc_dialog_material_background_dark.xml"
     },
     {
         "merged": "/home/sanjeev/Downloads/ud843-QuakeReport-starting-point/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
@@ -90,6 +90,10 @@
     {
         "merged": "/home/sanjeev/Downloads/ud843-QuakeReport-starting-point/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
         "source": "/home/sanjeev/.android/build-cache/85ecc9ff7926ca1c1c2029c43d0eefe8b84b4f08/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/sanjeev/Downloads/ud843-QuakeReport-starting-point/app/build/intermediates/res/merged/debug/drawable/magnitude_circle.xml",
+        "source": "/home/sanjeev/Downloads/ud843-QuakeReport-starting-point/app/src/main/res/drawable/magnitude_circle.xml"
     },
     {
         "merged": "/home/sanjeev/Downloads/ud843-QuakeReport-starting-point/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
